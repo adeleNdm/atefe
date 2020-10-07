@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/atefe/static/css/main.6db3be12.chunk.css",
-    "main.js": "/atefe/static/js/main.9b313400.chunk.js",
-    "main.js.map": "/atefe/static/js/main.9b313400.chunk.js.map",
+    "main.js": "/atefe/static/js/main.2806f8eb.chunk.js",
+    "main.js.map": "/atefe/static/js/main.2806f8eb.chunk.js.map",
     "runtime-main.js": "/atefe/static/js/runtime-main.c0e86de8.js",
     "runtime-main.js.map": "/atefe/static/js/runtime-main.c0e86de8.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/atefe/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.42bb14db.chunk.js": "/atefe/static/js/2.42bb14db.chunk.js",
     "static/js/2.42bb14db.chunk.js.map": "/atefe/static/js/2.42bb14db.chunk.js.map",
     "index.html": "/atefe/index.html",
-    "precache-manifest.434620724c08aa1cc00cb92969e4a8c1.js": "/atefe/precache-manifest.434620724c08aa1cc00cb92969e4a8c1.js",
+    "precache-manifest.1df9644261811ddddfe5f1eb7f0a9746.js": "/atefe/precache-manifest.1df9644261811ddddfe5f1eb7f0a9746.js",
     "service-worker.js": "/atefe/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/atefe/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.6db3be12.chunk.css.map": "/atefe/static/css/main.6db3be12.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.42bb14db.chunk.js",
     "static/css/main.6db3be12.chunk.css",
-    "static/js/main.9b313400.chunk.js"
+    "static/js/main.2806f8eb.chunk.js"
   ]
 }
