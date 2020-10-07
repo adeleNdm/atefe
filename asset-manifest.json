@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/atefe/static/css/main.749f481f.chunk.css",
+    "main.js": "/atefe/static/js/main.062cf882.chunk.js",
+    "main.js.map": "/atefe/static/js/main.062cf882.chunk.js.map",
+    "runtime-main.js": "/atefe/static/js/runtime-main.23505938.js",
+    "runtime-main.js.map": "/atefe/static/js/runtime-main.23505938.js.map",
+    "static/js/2.87ef9696.chunk.js": "/atefe/static/js/2.87ef9696.chunk.js",
+    "static/js/2.87ef9696.chunk.js.map": "/atefe/static/js/2.87ef9696.chunk.js.map",
+    "index.html": "/atefe/index.html",
+    "precache-manifest.2468b406e30b338eecfbafe73883c651.js": "/atefe/precache-manifest.2468b406e30b338eecfbafe73883c651.js",
+    "service-worker.js": "/atefe/service-worker.js",
+    "static/css/main.749f481f.chunk.css.map": "/atefe/static/css/main.749f481f.chunk.css.map",
+    "static/js/2.87ef9696.chunk.js.LICENSE.txt": "/atefe/static/js/2.87ef9696.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/atefe/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23505938.js",
+    "static/js/2.87ef9696.chunk.js",
+    "static/css/main.749f481f.chunk.css",
+    "static/js/main.062cf882.chunk.js"
+  ]
+}
