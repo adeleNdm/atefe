@@ -1,0 +1,68 @@
+.third {
+  /* background-color: rgba(245, 202, 8, 0.603); */
+  color: #FFEADB  ;
+  background-color: #637373;
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+h4 {
+  margin: 0;
+  font-size: 20px;
+  padding: 10px;
+}
+.card {
+  margin-bottom: 15px;
+  border-color: rgba(247, 243, 241, 0.2);
+  background-color: rgba(247, 243, 241, 0.055);
+}
+.card-title {
+  font-weight: bold;
+  font-size: 1rem;
+}
+@media (min-width: 320px) {
+  .card-title {
+    font-size: 0.7rem;
+  }
+}
+
+@media (min-width: 375px) {
+  .card-title {
+    font-size: 0.8rem;
+  }
+}
+
+@media (min-width: 425px) {
+  .card-title {
+    font-size: 0.9rem;
+  } /*1rem = 16px*/
+}
+
+@media (min-width: 768px) {
+  .card-title {
+    font-size: 1.2rem;
+  } /*1rem = 16px*/
+}
+@media (min-width: 1024px) {
+  .card-title {
+    font-size: 1.5rem;
+  } /*1rem = 16px*/
+}
+@media (min-width: 1440px) {
+  .card-title {
+    font-size: 1.7rem;
+  } /*1rem = 16px*/
+}
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Custom media queries
+*/
+
+/* Set width to make card deck cards 100% width */
+@media (min-width: 950px) and (max-width: 1100px) {
+  h1 {
+    font-size: 2.75rem;
+    color: red;
+  }
+}

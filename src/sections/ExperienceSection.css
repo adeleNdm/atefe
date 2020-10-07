@@ -1,0 +1,60 @@
+.forth {
+  background-color: #d6dbdb;
+  color:#545F5F;
+}
+#Experience {
+  background-color:#d6dbdb;
+}
+.paragraphs {
+  font-size: 14px;
+  float: left;
+  padding: 0px;
+  padding-right: 5px;
+  margin-bottom: 0px;
+}
+.title {
+  font-weight: bold;
+  color: salmon;
+  padding-right: 5px;
+}
+hr {
+  width: 100%;
+  background-color: salmon;
+  float: center;
+  margin-left: 0;
+}
+@media (min-width: 320px) {
+  .content-size-resp {
+    font-size: 0.7rem;
+  }
+}
+
+@media (min-width: 375px) {
+  .content-size-resp {
+    font-size: 0.8rem;
+  }
+}
+
+@media (min-width: 425px) {
+  .content-size-resp {
+    font-size: 0.8rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .content-size-resp {
+    font-size: 1.3rem;
+  } 
+}
+
+@media (min-width: 1024px) {
+  .content-size-resp {
+    font-size: 1.4rem;
+  } 
+}
+
+@media (min-width: 1440px) {
+  .content-size-resp {
+    font-size: 1.7rem;
+  } 
+}

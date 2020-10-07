@@ -1,26 +1,34 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import TitlesAndIcons from "./sections/TitlesAndIcons";
+import AboutSection from "./sections/AboutSection";
+import SkillSection from "./sections/SkillSection";
+import ExperienceSection from "./sections/ExperienceSection";
+import NavCom from "./components/NavCom";
+import SnowStorm from "react-snowstorm";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import "./App.css";
+
+class App extends Component {
+   
+  render() {
+    return (
+      <div className="App">
+        <SnowStorm
+          animationInterval={120}
+          snowCharacter={"*"}
+          vMaxY={2}
+          vMaxX={2}
+        />
+        <NavCom />
+        
+        <title>atele nademi | عاطفه نادمی </title>
+        <TitlesAndIcons/>
+        <AboutSection />
+        <SkillSection />
+        <ExperienceSection />
+      </div>
+    );
+  }
 }
 
 export default App;

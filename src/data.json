@@ -1,0 +1,153 @@
+{
+  "title": "Hello, I'm Atefeh!",
+  "title1": "Hello, I'm Atefeh!",
+  "subtitle": "Architecture | Designer",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/atefe-nademi-359675173/",
+    "instagram": "https://www.instagram.com/atefe_nademi/"
+  },
+  "contact": "atefe.nademi@gmail.com",
+  "contact1":"At_nademi@arch.iust.ac.ir",
+  "contact2":"At_nademi@arch.iust.ac.ir",
+  "phone": "0939-857-4347",
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "I am interested in learning, I love teamwork and Participate in Competition, I'm always happy and active, I'm interested in art and painting.",
+          "birthday": "Birth Date : 13 May 1995"
+        },
+        {
+          "title": "Education",
+          "content": [
+            {
+              "uni": "Sampad School",
+              "date": "2005 – 2013",
+              "dis": "Diploma in Math and Physics"
+            },
+            {
+              "uni": "Shahrood University of Technology",
+              "date": "2013 – 2017",
+              "dis": "Bachelor of Architecture Engineering"
+            },
+            {
+              "uni": "Iran University of Science and Technology(IUST)",
+              "date": "2017 - now",
+              "dis": "Master of Sustainable Architecture Engineering"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "title": "Autocad",
+            "percent": "85"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Rhino",
+            "percent": "90"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Grasshopper",
+            "percent": "50"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Photoshop",
+            "percent": "90"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "3Ds Max",
+            "percent": "80"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Lumion",
+            "percent": "100"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Design Builder",
+            "percent": "50"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Photography",
+            "percent": "80"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "KeyShot",
+            "percent": "90"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "After Effects",
+            "percent": "85"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Office",
+            "percent": "90"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "prezi",
+            "percent": "100"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Experiences",
+      "items": [
+        {
+          "y": "1398 - now : ",
+          "w": " معمار و طراح فاز دو پروژه گلبول سبز"
+        },
+        {
+          "y": "1398 :",
+          "w": "معمار در شرکت مهندیسین مشاور معماری و محیط"
+        }
+      
+      ]
+    }
+  ],
+  "icons": {
+    "down": "down.png",
+    "up": "up.png",
+    "profile": "atefe.png"
+  }
+}
