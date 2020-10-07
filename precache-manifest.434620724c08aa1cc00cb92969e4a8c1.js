@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c7816c88374177e69a2d5f92918b061",
+    "revision": "dd4575df56c0984ed4ab3d11f90ef756",
     "url": "/atefe/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/atefe/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "b2a0b2fcedc4c054c30c",
-    "url": "/atefe/static/css/main.11f3a8bf.chunk.css"
+    "revision": "f6a8eb350ced0b73562f",
+    "url": "/atefe/static/css/main.6db3be12.chunk.css"
   },
   {
     "revision": "f533c8a49108f6766bbe",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/atefe/static/js/2.42bb14db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2a0b2fcedc4c054c30c",
-    "url": "/atefe/static/js/main.73595c4b.chunk.js"
+    "revision": "f6a8eb350ced0b73562f",
+    "url": "/atefe/static/js/main.9b313400.chunk.js"
   },
   {
     "revision": "c0cd05a09d60fd9eb48f",
