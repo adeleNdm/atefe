@@ -21,8 +21,6 @@ class TitlesAndIcons extends Component {
                 
                 </Col>
               <Col sm={12} xs={12} md={12}>
-              <br />
-                <br />
                 <div className="main-title">
                   <h1>{data.title}</h1>
                   <br />
