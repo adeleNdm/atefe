@@ -14,16 +14,22 @@ class TitlesAndIcons extends Component {
         <Fullpage className="first">
           <Container>
             <Row className="border-1">
-              <Col>
-                <div className="on-border">
+              <Col sm={12} xs={12} md={12}>
+                <div className="on-border" >
                   <img src={data.icons.profile} alt="atefeh nademi" />
                 </div>
+                
+                </Col>
+              <Col sm={12} xs={12} md={12}>
+              <br />
                 <br />
-                <br />
-                <div style={{}}>
+                <div className="main-title">
                   <h1>{data.title}</h1>
                   <br />
                 </div>
+                </Col>
+                <Col>
+
                 <div className="text-responsive-subt">
                   <strong>{data.subtitle}</strong>
                 </div>
