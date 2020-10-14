@@ -21,12 +21,17 @@ class TitlesAndIcons extends Component {
                 
                 </Col>
               <Col sm={12} xs={12} md={12}>
-                <div className="main-title">
-                  <h1>{data.title}</h1>
+              <br />
+              <br />
+
+                <div className="text-responsive">
+                 
+                  {data.title}
                   <br />
                 </div>
                 </Col>
                 <Col>
+                <br />
 
                 <div className="text-responsive-subt">
                   <strong>{data.subtitle}</strong>

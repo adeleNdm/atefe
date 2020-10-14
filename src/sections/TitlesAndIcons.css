@@ -25,6 +25,14 @@
     float: left;
     margin-left: 15px;
   }
+  .text-responsive{
+    font-size: calc(100% + 1vw + 1vh);
+    font-weight: bold;
+  }
+  .text-responsive-subt{
+    
+    font-size: calc(20% + 1vw + 1vh);
+  }
 
  @media (min-width: 320px) {
   .img-size {
