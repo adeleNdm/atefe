@@ -23,18 +23,18 @@
   .on-border{
     margin-top:-80px;
     float: left;
-    margin-left: 10px;
+    margin-left: 15px;
   }
 
  @media (min-width: 320px) {
   .img-size {
-    font-size: 0.7rem;
+    width: 140px;
   }
 }
 
 @media (min-width: 375px) {
   .img-size {
-    width:160px;
+    width:150px;
   }
 }
 

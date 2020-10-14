@@ -3,7 +3,7 @@
   color:#545F5F;
 }
 .font{
-  font-family: BNazanin,'BNazanin',tahoma;
+  font-family: BNazanin,'BNazanin' !important;
 }
 #Experience {
   background-color:#d6dbdb;

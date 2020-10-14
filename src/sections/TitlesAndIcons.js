@@ -18,6 +18,9 @@ class TitlesAndIcons extends Component {
                 <div className="on-border" >
                   <img className="img-size" src={data.icons.profile} alt="atefeh nademi" />
                 </div>
+                <div className="img-size border">
+
+                </div>
                 
                 </Col>
               <Col sm={12} xs={12} md={12}>
