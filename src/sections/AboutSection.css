@@ -21,16 +21,25 @@ hr {
 .birthd {
   color: dimgrey;
 }
-.paragraph{
+.paragraph {
   text-align: justify;
   justify-content: center;
   padding: 5px;
 }
-.text-responsive-subt{
-
+.text-responsive-subt {
   font-size: calc(2% + 1vw + 1vh);
 }
-.text-responsive-subt-uni{
-
-  font-size: calc(6% + 1vw + 1vh);
+.text-responsive-subt-uni {
+  font-size: calc(11% + 1vw + 1vh);
+  font-weight: bold;
+}
+.text-responsive-subt-uni-majer {
+  font-size: calc(8% + 1vw + 1vh);
+  padding-bottom: 8px;
+}
+.text-responsive {
+  font-size: calc(90% + 1vw + 1vh);
+}
+.text-responsive-subt {
+  font-size: calc(20% + 1vw + 1vh);
 }

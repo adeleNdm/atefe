@@ -25,8 +25,9 @@ class AboutSection extends Component {
                   <br />
                   <div className="birthd">
                     <h5>
-                      <br />
+                      
                       {data.sections[0].items[0].birthday}
+                      <br />
                       <br />
                     </h5>
                   </div>
@@ -34,21 +35,27 @@ class AboutSection extends Component {
                     {data.sections[0].items[1].title}
                   </h4>
                   <hr className="hr"></hr>
-                  <div className=" text-responsive-subt-uni">
-                     {data.sections[0].items[1].content[0].uni}
-                    <div style={{ fontSize: "13px" }}>
+                  <div>
+                    <div className=" text-responsive-subt-uni">
+                      {data.sections[0].items[1].content[0].uni}
+                    </div>{" "}
+                    <div className=" text-responsive-subt-uni-majer" >
                       {data.sections[0].items[1].content[0].date}
                       ----
                       {data.sections[0].items[1].content[0].dis}
                     </div>
-                     {data.sections[0].items[1].content[1].uni}
-                    <div style={{ fontSize: "13px" }}>
+                    <div className=" text-responsive-subt-uni">
+                      {data.sections[0].items[1].content[1].uni}
+                    </div>
+                    <div  className=" text-responsive-subt-uni-majer">
                       {data.sections[0].items[1].content[1].date}
                       ----
                       {data.sections[0].items[1].content[1].dis}
                     </div>
-                    {data.sections[0].items[1].content[2].uni}
-                    <div style={{ fontSize: "13px" }}>
+                    <div className=" text-responsive-subt-uni">
+                      {data.sections[0].items[1].content[2].uni}
+                    </div>
+                    <div  className=" text-responsive-subt-uni-majer">
                       {data.sections[0].items[1].content[2].date}
                       ----
                       {data.sections[0].items[1].content[2].dis}
