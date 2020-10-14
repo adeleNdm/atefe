@@ -1,0 +1,36 @@
+h3 {
+  font-size: 4rem;
+}
+p {
+  display: flex;
+}
+.second {
+  background-color: #ffeadb;
+  color: #637373;
+}
+
+hr {
+  width: 100%;
+  border: 1.5px solid salmon;
+  float: center;
+  margin-left: 0;
+}
+#About {
+  display: block;
+}
+.birthd {
+  color: dimgrey;
+}
+.paragraph{
+  text-align: justify;
+  justify-content: center;
+  padding: 5px;
+}
+.text-responsive-subt{
+
+  font-size: calc(2% + 1vw + 1vh);
+}
+.text-responsive-subt-uni{
+
+  font-size: calc(6% + 1vw + 1vh);
+}

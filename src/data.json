@@ -1,0 +1,193 @@
+{
+  "title": "Hello, I'm Atefeh!",
+  "title1": "Hello, I'm Atefeh!",
+  "subtitle": "Architecture | Designer",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/atefe-nademi-359675173/",
+    "instagram": "https://www.instagram.com/atefe_nademi/"
+  },
+  "contact": "atefe.nademi@gmail.com",
+  "contact1": "At_nademi@arch.iust.ac.ir",
+  "contact2": "At_nademi@arch.iust.ac.ir",
+  "phone": "0939-857-4347",
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "I am always energetic and eager to learn new skills and I use a creative approach to problem solve so I’m always coming up with innovative ideas. I am a dependable person who is great at time management also I have experience working as part of a team and individually. I am flexible in my working hours, being able to work evenings and weekends because I love my work. I am motivated to go to the yoga and gym to get fit, healthy and relax, I'm interested in painting and photography so I’m always painting my spare time.      ",
+          "birthday": "Birth Date : 13 May 1995"
+        },
+        {
+          "title": "Education",
+          "content": [
+            {
+              "uni": "Sampad School",
+              "date": "2005 – 2013",
+              "dis": "Diploma in Math and Physics"
+            },
+            {
+              "uni": "Shahrood University of Technology",
+              "date": "2013 – 2017",
+              "dis": "Bachelor of Architecture Engineering"
+            },
+            {
+              "uni": "Iran University of Science and Technology(IUST)",
+              "date": "2017 - now",
+              "dis": "Master of Sustainable Architecture Engineering"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "title": "Autocad",
+            "percent": "85"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Rhino",
+            "percent": "90"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Grasshopper",
+            "percent": "50"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Photoshop",
+            "percent": "90"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "3Ds Max",
+            "percent": "80"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Lumion",
+            "percent": "100"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Design Builder",
+            "percent": "50"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Photography",
+            "percent": "80"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "KeyShot",
+            "percent": "90"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "After Effects",
+            "percent": "85"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Office",
+            "percent": "90"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "prezi",
+            "percent": "100"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Experiences",
+      "items": [
+        {
+          "y": " : از 1398 تا کنون",
+          "w": " عضو استارتاپ گلبول سبز: سرپرست طراحی؛ "
+        },
+        {
+          "y": ": 1398",
+          "w": " معمار و طراح فاز دو استارتاپ گلبول سبز؛ "
+        }
+        ,
+        {
+          "y": " : از 1398 تا کنون",
+          "w": " (ArcBES) طراح و معمار و گرافیست در شرکت آرک بس"
+        },
+        {
+          "y": ": 1398",
+          "w": "معمار در شرکت مهندسین مشاور معماری و محیط؛"
+        },
+        {
+          "y": " : از 1397 تا کنون",
+          "w": "؛(PreFab LAB) عضو آزمایشگاه طرح  ساخت پیشرفته وابسته به دانشکده معماری دانشگاه علم و صنعت ایران "
+        },
+        {
+          "y": ": 1397",
+          "w": " شرکت در دوره طراحی رایانشی و ساخت دیجیتالی، مینی فب؛ "
+        },
+        {
+          "y": ": 1396",
+          "w": "شرکت در مسابقه کارگاهی (دربند، شمیران: آب/ رود دره/ مامردمان) و کسب مقام رده سوم "
+        },
+        {
+          "y": " : از 1393 تا 1395",
+          "w": "عضو اصلی انجمن معماری دانشگاه صنعتی شاهرود؛"
+        },
+        {
+          "y": ": 1393",
+          "w": "طراحی غرفه جشنواره حرکت در دانشگاه صنعتی شاهرود؛"
+        },
+        {
+          "y": ": 1395",
+          "w": "طراحی غرفه نمایشگاه پنج و هفت در دانشگاه صنعتی شاهرود؛"
+        },
+        {
+          "y": ": 1395",
+          "w": "طراحی نشریه دانشجویی با عنوان حوضچه؛"
+        },
+        {
+          "y": ": 1396",
+          "w": "شرکت در مسابقه عکاسی معماری بناهای تاریخی و کسب مقام اول؛"
+        }
+      ]
+    }
+  ],
+  "icons": {
+    "down": "down.png",
+    "up": "up.png",
+    "profile": "atefe1.png"
+  }
+}
