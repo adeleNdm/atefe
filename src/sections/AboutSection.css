@@ -3,8 +3,6 @@ h3 {
 }
 p {
   display: flex;
-  text-align: justify;
-  justify-content: center;
 }
 .second {
   background-color: #ffeadb;
@@ -22,4 +20,17 @@ hr {
 }
 .birthd {
   color: dimgrey;
+}
+.paragraph{
+  text-align: justify;
+  justify-content: center;
+  padding: 5px;
+}
+.text-responsive-subt{
+
+  font-size: calc(2% + 1vw + 1vh);
+}
+.text-responsive-subt-uni{
+
+  font-size: calc(6% + 1vw + 1vh);
 }

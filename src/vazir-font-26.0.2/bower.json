@@ -1,0 +1,20 @@
+{
+    "name": "-font",
+    "version": "26.0.2",
+    "main": [
+        "dist/*"
+    ],
+      "authors": [
+        { "name": "Saber Rastikerdar", "homepage": "http://rastikerdar.blog.ir" }
+    ],
+    "license": ["Public Domain"],
+    "ignore": [
+        "*.md",
+        "*.json",
+        "source"
+    ],
+    "keywords": [
+        "font",
+        "persian"
+    ]
+}

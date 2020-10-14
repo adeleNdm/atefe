@@ -7,8 +7,8 @@
     "instagram": "https://www.instagram.com/atefe_nademi/"
   },
   "contact": "atefe.nademi@gmail.com",
-  "contact1":"At_nademi@arch.iust.ac.ir",
-  "contact2":"At_nademi@arch.iust.ac.ir",
+  "contact1": "At_nademi@arch.iust.ac.ir",
+  "contact2": "At_nademi@arch.iust.ac.ir",
   "phone": "0939-857-4347",
   "sections": [
     {
@@ -16,7 +16,7 @@
       "items": [
         {
           "type": "p",
-          "content": "I am interested in learning, I love teamwork and Participate in Competition, I'm always happy and active, I'm interested in art and painting.",
+          "content": "I am always energetic and eager to learn new skills and I use a creative approach to problem solve so I’m always coming up with innovative ideas. I am a dependable person who is great at time management also I have experience working as part of a team and individually. I am flexible in my working hours, being able to work evenings and weekends because I love my work. I am motivated to go to the yoga and gym to get fit, healthy and relax, I'm interested in painting and photography so I’m always painting my spare time.      ",
           "birthday": "Birth Date : 13 May 1995"
         },
         {
@@ -134,14 +134,54 @@
       "title": "Experiences",
       "items": [
         {
-          "y": "1398 - now : ",
-          "w": " معمار و طراح فاز دو پروژه گلبول سبز"
+          "y": " : از 1398 تا کنون",
+          "w": " عضو استارتاپ گلبول سبز: سرپرست طراحی؛ "
         },
         {
-          "y": "1398 :",
-          "w": "معمار در شرکت مهندیسین مشاور معماری و محیط"
+          "y": ": 1398",
+          "w": " معمار و طراح فاز دو استارتاپ گلبول سبز؛ "
         }
-      
+        ,
+        {
+          "y": " : از 1398 تا کنون",
+          "w": " (ArcBES) طراح و معمار و گرافیست در شرکت آرک بس"
+        },
+        {
+          "y": ": 1398",
+          "w": "معمار در شرکت مهندسین مشاور معماری و محیط؛"
+        },
+        {
+          "y": " : از 1397 تا کنون",
+          "w": "؛(PreFab LAB) عضو آزمایشگاه طرح  ساخت پیشرفته وابسته به دانشکده معماری دانشگاه علم و صنعت ایران "
+        },
+        {
+          "y": ": 1397",
+          "w": " شرکت در دوره طراحی رایانشی و ساخت دیجیتالی، مینی فب؛ "
+        },
+        {
+          "y": ": 1396",
+          "w": "شرکت در مسابقه کارگاهی (دربند، شمیران: آب/ رود دره/ مامردمان) و کسب مقام رده سوم "
+        },
+        {
+          "y": " : از 1393 تا 1395",
+          "w": "عضو اصلی انجمن معماری دانشگاه صنعتی شاهرود؛"
+        },
+        {
+          "y": ": 1393",
+          "w": "طراحی غرفه جشنواره حرکت در دانشگاه صنعتی شاهرود؛"
+        },
+        {
+          "y": ": 1395",
+          "w": "طراحی غرفه نمایشگاه پنج و هفت در دانشگاه صنعتی شاهرود؛"
+        },
+        {
+          "y": ": 1395",
+          "w": "طراحی نشریه دانشجویی با عنوان حوضچه؛"
+        },
+        {
+          "y": ": 1396",
+          "w": "شرکت در مسابقه عکاسی معماری بناهای تاریخی و کسب مقام اول؛"
+        }
       ]
     }
   ],

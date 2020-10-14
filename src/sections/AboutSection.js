@@ -18,12 +18,14 @@ class AboutSection extends Component {
                 </h4>
                 <hr className="hr"></hr>
 
-                <div className="paragraphs text-responsive-subt">
-                  {data.sections[0].items[0].content}
+                <div className=" text-responsive-subt">
+                  <div className="paragraph">
+                    {data.sections[0].items[0].content}
+                  </div>
                   <br />
                   <div className="birthd">
                     <h5>
-                    <br />
+                      <br />
                       {data.sections[0].items[0].birthday}
                       <br />
                     </h5>
@@ -32,26 +34,26 @@ class AboutSection extends Component {
                     {data.sections[0].items[1].title}
                   </h4>
                   <hr className="hr"></hr>
-
-                  <h5> {data.sections[0].items[1].content[0].uni}</h5>
-                  <div style={{fontSize:"13px"}}>
-                    {data.sections[0].items[1].content[0].date}
-                    ----
-                    {data.sections[0].items[1].content[0].dis}
+                  <div className=" text-responsive-subt-uni">
+                     {data.sections[0].items[1].content[0].uni}
+                    <div style={{ fontSize: "13px" }}>
+                      {data.sections[0].items[1].content[0].date}
+                      ----
+                      {data.sections[0].items[1].content[0].dis}
+                    </div>
+                     {data.sections[0].items[1].content[1].uni}
+                    <div style={{ fontSize: "13px" }}>
+                      {data.sections[0].items[1].content[1].date}
+                      ----
+                      {data.sections[0].items[1].content[1].dis}
+                    </div>
+                    {data.sections[0].items[1].content[2].uni}
+                    <div style={{ fontSize: "13px" }}>
+                      {data.sections[0].items[1].content[2].date}
+                      ----
+                      {data.sections[0].items[1].content[2].dis}
+                    </div>
                   </div>
-                  <h5> {data.sections[0].items[1].content[1].uni}</h5>
-                  <div style={{fontSize:"13px"}}>
-                    {data.sections[0].items[1].content[1].date}
-                    ----
-                    {data.sections[0].items[1].content[1].dis}
-                  </div>
-                  <h5> {data.sections[0].items[1].content[2].uni}</h5>
-                  <div style={{fontSize:"13px"}}>
-                    {data.sections[0].items[1].content[2].date}
-                    ----
-                    {data.sections[0].items[1].content[2].dis}
-                  </div>
-
                 </div>
               </Col>
             </Row>
